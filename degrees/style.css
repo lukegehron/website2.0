@@ -1,0 +1,45 @@
+button{
+    width: 100%;
+    max-width: 1200px;
+    justify-content: center;
+    margin: auto;
+
+    background-color: #4CAF50;
+    height:80px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+  }
+  .buttonDiv{
+      width: 100%;
+    justify-content: center;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+    float:right;
+    height:80px;
+  }
+  #myTable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1200px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  #myTables td, #myTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #myTable tr:hover {background-color: #ddd;}
+  
+  #myTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
